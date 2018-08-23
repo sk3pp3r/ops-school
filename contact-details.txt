@@ -1,2 +1,2 @@
-name: first last
-email: name@email.com
+name: Haim Cohen
+email: haim.cohen@medtronic.com
