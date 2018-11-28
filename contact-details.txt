@@ -1,2 +1,0 @@
-name: Haim Cohen
-email: haim.cohen@medtronic.com
